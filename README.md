@@ -1,2 +1,2 @@
 # PantheonToHalcom
- Automatsko placanje svih faktura tako sto se generise fajl koji se uveze u halcom
+Automatic payment of all invoices (External app for PantheonERP and Halcom)
